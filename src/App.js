@@ -4,7 +4,7 @@ import Portfolio from "./components/Portfolio";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import ContactForm from "./components/Contact";
-//import Resume from "./components/Resume";
+import Resume from "./components/Resume";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -25,8 +25,8 @@ function App() {
         return <Portfolio />;
       case "Contact":
         return <ContactForm />;
-//**       case "Resume":
-//        return <Resume />;
+       case "Resume":
+        return <Resume />;
       default:
         return <About />;
     }
