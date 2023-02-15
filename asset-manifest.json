@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.0d2b2f60.css",
+    "main.js": "/React-Portfolio/static/js/main.3599926b.js",
+    "static/js/787.f36c4839.chunk.js": "/React-Portfolio/static/js/787.f36c4839.chunk.js",
+    "static/media/Work Day Scheduler.png": "/React-Portfolio/static/media/Work Day Scheduler.fd281d2b01f840e0cd96.png",
+    "static/media/regex.png": "/React-Portfolio/static/media/regex.7577200523d847ad5b2a.png",
+    "static/media/Weather Dashboard.png": "/React-Portfolio/static/media/Weather Dashboard.81cb3979a9d24fba05e4.png",
+    "static/media/Note Taker.png": "/React-Portfolio/static/media/Note Taker.7852f5367aad182625ec.png",
+    "static/media/Me.JPG": "/React-Portfolio/static/media/Me.e432dcd1f0095afcc707.JPG",
+    "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.f74c9e56a04648e9f24b.pdf",
+    "index.html": "/React-Portfolio/index.html",
+    "main.0d2b2f60.css.map": "/React-Portfolio/static/css/main.0d2b2f60.css.map",
+    "main.3599926b.js.map": "/React-Portfolio/static/js/main.3599926b.js.map",
+    "787.f36c4839.chunk.js.map": "/React-Portfolio/static/js/787.f36c4839.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d2b2f60.css",
+    "static/js/main.3599926b.js"
+  ]
+}
