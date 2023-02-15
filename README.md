@@ -13,3 +13,6 @@ The portfolio includes a page that containing a header, a section for content, a
   - React
   - React-icons
   - Boostrap
+
+## Deploy site
+Vist the deploy site at https://zhngzh527.github.io/React-Portfolio/
