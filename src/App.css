@@ -1,3 +1,12 @@
+:root {
+  --main: #fffffe;
+  --stroke:  #394032;
+  --primary: #01BAEF;
+  --secondary: #fffffe;
+  --tertiary: #394032;
+
+}
+
 .App {
   text-align: center;
 }
@@ -14,7 +23,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: var(--primary);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +34,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #3da9fc;
 }
 
 @keyframes App-logo-spin {

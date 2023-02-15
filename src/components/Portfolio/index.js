@@ -1,7 +1,7 @@
 import React from "react";
 import Projects from "../../components/Project";
 import workdayscheduler from "../../assets/img/Work Day Scheduler.png";
-import weatherdashboard from "../../assets/img/Weather Dashboardpng.png";
+import weatherdashboard from "../../assets/img/Weather Dashboard.png";
 import regex from "../../assets/img/regex.png"
 import notetaker from "../../assets/img/Note Taker.png"
 
